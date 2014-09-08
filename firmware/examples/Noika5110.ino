@@ -19,7 +19,7 @@ Adapted for Spark Core by Paul Kourany, April 2014
 *********************************************************************/
 
 #include "Adafruit_mfGFX/Adafruit_mfGFX.h"
-#include "Adafruit_PCD8544.h"
+#include "Adafruit_PCD8544_mfGFX.h"
 
 // (FAST) SOFTWARE SPI
 // pin A3 - Serial clock out (SCLK) - User defined
