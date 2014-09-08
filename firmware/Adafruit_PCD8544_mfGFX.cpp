@@ -19,7 +19,7 @@ Adapted for Spark Core by Paul Kourany, April 2014
 *********************************************************************/
 
 
-#include "Adafruit_mfGFX/Adafruit_mfGFX.h"
+#include "../Adafruit_mfGFX/Adafruit_mfGFX.h"
 #include "Adafruit_PCD8544_mfGFX.h"
 
 // the memory buffer for the LCD
