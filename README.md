@@ -38,11 +38,12 @@ be specifiec and connected to the display and the constructor called as follows:
 
 ```
 	Adafruit_PCD8544(SCLK, DIN, DC, CS, RST);
-	
+
 	eg: Adafruit_PCD8544 display = Adafruit_PCD8544(A3, A5, D2, A2, D3);
-```  
-  
+```
+
 NOTES:
+- Modified for Particle Photon compatibility with Core backwards compatibility
 - Modified code for Spark Core compatibility
 - Added hardware and (fast) software SPI to fastSPIwrite()
 - Added new create object methods for HardwareSPI:
