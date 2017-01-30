@@ -3,12 +3,14 @@ Adafruit-PCD8544-Nokia-5110-LCD-library-for-Spark
 
 Nokia 5110 LCD library adapted for Spark Core by Paul Kourany, April 2014
 
-This code compiles on the Spark web IDE
+!!! Updated for Libraries 2.0, Jan 2017
+
+This code compiles on the Particle web IDE
 
 Requirement
 -----------
 
-This library requires the Adafruit_GFX library to be included in the user application.
+This library uses the Adafruit_GFX library.
 
 
 Usage

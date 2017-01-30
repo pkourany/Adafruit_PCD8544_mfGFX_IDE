@@ -18,7 +18,7 @@ All text above, and the splash screen must be included in any redistribution
 Adapted for Spark Core by Paul Kourany, April 2014
 *********************************************************************/
 
-#include "application.h"
+#include "Particle.h"
 
 #define _BV(n) (1<<(n))
 
